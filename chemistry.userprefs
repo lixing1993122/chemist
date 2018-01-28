@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\2d\2d\yiqi\scripts\drag4.cs">
+    <Files>
+      <File FileName="Assets\2d\2d\yiqi\scripts\drag5.cs" Line="1" Column="1" />
+      <File FileName="Assets\2d\2d\yiqi\light.cs" Line="1" Column="1" />
+      <File FileName="Assets\2d\2d\yiqi\scripts\zidrag.cs" Line="1" Column="1" />
+      <File FileName="Assets\2d\2d\yiqi\ColliderTest.cs" Line="1" Column="1" />
+      <File FileName="Assets\2d\2d\yiqi\scripts\drag.cs" Line="1" Column="1" />
+      <File FileName="Assets\2d\button\qicaibutton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Shader Gallery\Scripts\UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\2d\2d\yiqi\scripts\drag4.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scences\tiaozhuan\tiao.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\shuoming.cs" Line="1" Column="1" />
+      <File FileName="Assets\2d\2d\yiqi\Dramg.cs" Line="1" Column="1" />
+      <File FileName="Assets\2d\2d\yiqi\Dragp.cs" Line="1" Column="1" />
+      <File FileName="Assets\2d\OpenPicture.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
